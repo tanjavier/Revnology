@@ -41,7 +41,7 @@ Backend API implementation for the Revnology assignment.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tanjavier/Revnology-backend.git
+git clone https://github.com/tanjavier/Revnology.git
 ```
 
 2. Install dependencies:
