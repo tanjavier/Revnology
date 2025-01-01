@@ -109,12 +109,12 @@ npm run dev
 ## Progress Tracking
 
 ### Section A: Backend ✅
-- [x] Basic Requirements
-- [x] Intermediate Requirements
-- [x] Advanced Requirements
+- [✅] Basic Requirements
+- [✅] Intermediate Requirements
+- [✅] Advanced Requirements
 
 ### Section B: Frontend
-- [:white_check_mark:] Basic Requirements
+- [✅] Basic Requirements
 - [ ] Intermediate Requirements
 - [ ] Advanced Requirements
 
