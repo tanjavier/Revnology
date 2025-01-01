@@ -114,7 +114,7 @@ npm run dev
 - [x] Advanced Requirements
 
 ### Section B: Frontend
-- [x] Basic Requirements
+- [:white_check_mark:] Basic Requirements
 - [ ] Intermediate Requirements
 - [ ] Advanced Requirements
 
